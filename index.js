@@ -125,7 +125,7 @@ class BotSession {
                 syncFullHistory: false,
                 shouldSyncHistoryMessage: () => false,
                 markOnlineOnConnect: true,
-                keepBICHU veIntervalMs: 30000,
+                keepbichuveIntervalMs: 30000,
                 connectTimeoutMs: 60000,
                 defaultQueryTimeoutMs: 60000,
                 emitOwnEvents: true,
